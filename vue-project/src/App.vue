@@ -23,7 +23,6 @@
   </div>
 </template>
 
-
 <script setup>
 import { ref, computed } from 'vue'
 
@@ -67,5 +66,4 @@ const nextImage = () => {
 }
 </script>
 
-<!-- Importing Global CSS -->
-<style src="./assets/styles.css"></style>
+<style src="src/assets/styles.css"></style>
